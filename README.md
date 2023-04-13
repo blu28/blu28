@@ -1,4 +1,4 @@
-### Hi there 👋
+### I am a mentor for the FIRST Robotics team, The Nashua Tough Techs, team 151.
 
 <!--
 **blu28/blu28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
